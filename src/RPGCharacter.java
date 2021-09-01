@@ -10,4 +10,16 @@ public class RPGCharacter {
 
      The program should run using dialog boxes and the output should show ALL the character's stats including a name.
      */
+    public static void main(String[] args) {
+
+        int characterStrength = 34;
+        int characterStamina = 50;
+        int characterSpeed = 46;
+        int characterFlexibility = 59;
+
+
+
+
+
+    }
 }
