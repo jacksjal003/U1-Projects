@@ -16,4 +16,13 @@ public class Sales {
     Tax Total: $1.57
     Total Cost: $24.03
      */
+
+    public static void main(String[] args) {
+
+        double salePrice = 19.99;
+        double discount = 20;
+        int itemsBuying = 5;
+        double salesTax = 7;
+
+    }
 }
